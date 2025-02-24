@@ -19,13 +19,21 @@ git clone https://github.com/grx6741/temp --recursive
 Now to build the project
 
 ```console
-# Windows Powershell
 .\emsdk\emsdk activate latest
+
+# Windows Powershell
 .\build.ps1 all
+
+# Linux
+make all
 ```
 
 Now to view the game
 
 ```console
-emrun bin/game.html
+# Windows Powershell
+.\build.ps1 run
+
+# Linux
+make run
 ```
