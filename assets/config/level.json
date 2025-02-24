@@ -1,0 +1,6 @@
+{
+    "LEVEL1" : {
+	"map" : "assets/level/map.json",
+	"tileSet" : "assets/level/spritesheet.png"
+    }
+}

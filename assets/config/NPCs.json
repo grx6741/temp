@@ -1,0 +1,9 @@
+{
+    "greg" : { 
+	"url" : "https://randommer.io/api/Text/LoremIpsum",
+	"start_position_x" : 384,
+	"start_position_y" : 144,
+	"collider_width" : 15,
+	"collider_height" : 17
+    }
+}

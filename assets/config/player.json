@@ -1,0 +1,8 @@
+{
+    "start_position_x" : 168,
+    "start_position_y" : 312,
+    "collider_width" : 15,
+    "collider_height" : 17,
+    "speed" : 80,
+    "jump_force" : 200
+}
