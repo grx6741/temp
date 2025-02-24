@@ -8,6 +8,7 @@ Clone with all the submodules
 
 ```console
 git clone https://github.com/grx6741/temp --recursive
+cd temp
 ```
 
 `emsdk` will also be cloned in the repo. This command will install the Emscripten compiler with other deps
